@@ -1,0 +1,16 @@
+{
+	"DB_WRITE" : 
+	{
+		"HOST" : "HOST",
+		"USER" : "USER",
+		"PWD" : "PWD",
+		"DB_NAME" : "DB_NAME" 
+	},
+	"DB_READ" : 
+	{
+		"HOST" : "HOST",
+		"USER" : "USER",
+		"PWD" : "PWD",
+		"DB_NAME" : "DB_NAME"
+	}
+}
